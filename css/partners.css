@@ -21,7 +21,7 @@ body {
 	background-size: cover; /* Resize the background image to cover the entire container */
 }
 .partner-logo {
-	max-width: 50%;
+	max-width: 500px;
 	height: auto;
 }
 .faces {
